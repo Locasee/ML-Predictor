@@ -1,1 +1,7 @@
 # ML-Predictor
+This is the ML path repository for Locasee, a Google Bangkit product capstone that helps businesses to choose their operational location.
+## How to replicate
+- Clone our project
+- You can follow our flow on the locasee.ipynb, and directly run each of the cell
+- Run the server.py
+- Access the endpoint from the consumer (in this case, it's the android side)
